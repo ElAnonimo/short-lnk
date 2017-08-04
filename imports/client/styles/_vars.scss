@@ -1,0 +1,38 @@
+// colors ($grey is used locally in this file only)
+$brand-primary: #5b4681;
+$grey: #ddd;
+$light-grey: #f9f9f9;
+$dark-grey: #777;
+
+// spacing
+$space: 1.4rem;
+$site-max-width: 50rem;
+
+// font sizes
+$base-font-size: 1.6rem;
+$large-font-size: 1.8rem;
+
+// form inputs
+$input-border: $grey;
+$input-spacing: 1.0rem;
+
+// boxed-view
+$boxed-view-overlay-bg: $grey;
+$boxed-view-bg: #a1b2c3;
+
+// button
+$button-bg: $brand-primary;
+$button-color: #fff;
+$button-pill-color: $brand-primary;
+$button-secondary-bg: $light-grey;
+$button-secondary-color: $dark-grey;
+$button-secondary-border: #ddd;
+
+// Header
+$header-bg: $brand-primary;
+$header-color: #fff;
+
+// item
+$item-bg: $light-grey;
+$item-border: darken($item-bg, 8%);
+$item-text-color: $dark-grey;
